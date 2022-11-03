@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arunimasengupta
 - 👀 I’m interested in C, C++,Data Structures&Algorithms, ML,Datascience 
-- 🌱 I’m currently learning ML,DL,Web Development,NlP,
+- 🌱 I’m currently learning ML,DL,Web Development,NlP,Computer vision
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/arunima-sengupta-77905a183/
 <!---
